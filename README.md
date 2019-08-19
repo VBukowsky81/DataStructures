@@ -1,4 +1,4 @@
-# DataStructures
+# Data Structures
 
 Working with Data Structures in Java
 
