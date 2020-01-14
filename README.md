@@ -1,5 +1,4 @@
 # Data Structures
-
 Working with Data Structures in Java
 
 I personally absolutely love working with data structures. They are fun to work with. You can literally feel objects being passed around,
